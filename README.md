@@ -1,6 +1,6 @@
 # Trionix Tickets — Sistema de Soporte con Agentes
 
-**Estudiante:** _[Escribe aquí tu nombre completo]_
+**Estudiante:** Joel David Marquez Alvarez
 **Curso:** Desarrollo Web Backend · Node.js — Parcial Segundo Corte (Docente: Rafael Pérez Meriño)
 
 Aplicación completa para gestionar tickets de soporte técnico y los agentes que los atienden.
@@ -10,7 +10,7 @@ consume la API sin recargar la página.
 
 ## URL pública
 
-**_[Pega aquí la URL del despliegue, p. ej. https://trionix-tickets.onrender.com]_**
+**https://trionix-tickets-agentes-8zlv.onrender.com/**
 
 ## Correrlo localmente
 
